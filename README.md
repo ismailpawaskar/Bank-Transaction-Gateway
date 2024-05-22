@@ -32,8 +32,8 @@ To get started with the project, follow these steps:
     pip install -r requirements.txt
     ```
 
-##How It Works
-User Authentication: The user logs in by entering their credentials. An OTP is sent to the registered mobile number for verification.
-OTP Verification: The user must verify the OTP within three attempts. If the attempts exceed three, the account is blocked.
-Perform Transactions: Upon successful OTP verification, the user can select the type of transaction (e.g., deposit, withdrawal) to perform.
-Update Excel Sheet: After the transaction, the updated balance is reflected in the Excel sheet.
+## How It Works
+- *User Authentication*: The user logs in by entering their credentials. An OTP is sent to the registered mobile number for verification.
+- *OTP Verification*: The user must verify the OTP within three attempts. If the attempts exceed three, the account is blocked.
+- *Perform Transactions*: Upon successful OTP verification, the user can select the type of transaction (e.g., deposit, withdrawal) to perform.
+- *Update Excel Sheet*: After the transaction, the updated balance is reflected in the Excel sheet.
