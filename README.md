@@ -11,8 +11,6 @@ This project is a prototype that replicates the backend of a banking system usin
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
   
 
@@ -26,10 +24,6 @@ To get started with the project, follow these steps:
 2. Navigate to the project directory:
     ```bash
     cd banking-system-prototype
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ## How It Works
