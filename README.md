@@ -1,4 +1,4 @@
-# Banking System Prototype
+# Banking Transaction Gateway (System Prototype)
 
 ## Overview
 This project is a prototype that replicates the backend of a banking system using Python. The system enhances security through OTP verification and supports various banking transactions, with real-time updates reflected in an Excel sheet.
